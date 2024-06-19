@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/C++-150458.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-4d77cf.svg?style=for-the-badge&logo=JAVA&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/EC2-11557c.svg?style=for-the-badge&logo=EC2&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS EC2-11557c.svg?style=for-the-badge&logo=EC2&logoColor=white" />&nbsp
 </div>
 
 <br>
