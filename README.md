@@ -21,27 +21,18 @@
 
 ## 사용할 수 있는 기술
 여기에는 제가 사용할 수 있는 다양한 기술들이 있습니다:
-- **프로그래밍 언어**: Python, JavaScript, Java, C++
-- **웹 개발**: HTML, CSS, React, Node.js
-- **데이터베이스**: MySQL, MongoDB
-- **도구**: Git, Docker, Jenkins
+- **프로그래밍 언어**: Python, Java, C++
+- **웹 개발**: HTML, CSS, Node.js, php
+- **데이터베이스**: MySQL
+- **클라우드**: AWS EC2
+- **프레임워크**: Spring Boot
+- **도구**: Git, Docker, kubernetes, Linux, ubuntu
 
 ## 내가 쓰고 있는 언어
-현재 주로 사용하는 언어는 Python과 JavaScript입니다. 이 두 언어를 사용하여 여러 프로젝트를 진행하고 있습니다.
-
-## 기여
-기여 방법에 대한 설명:
-1. 이 저장소를 포크합니다.
-2. 새 브랜치를 만듭니다. (`git checkout -b feature/AmazingFeature`)
-3. 변경 사항을 커밋합니다. (`git commit -m 'Add some AmazingFeature'`)
-4. 브랜치에 푸시합니다. (`git push origin feature/AmazingFeature`)
-5. 풀 리퀘스트를 엽니다.
-
-## 라이선스
-이 프로젝트는 MIT 라이선스를 사용합니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
+현재 주로 Ubuntu를 이용해 간단한 웹사이트를 만듭니다. 현재 프로젝트에서는 서버, DB, 얼굴인식을 만들고 있습니다.
 
 ## 연락처
-저와 연락을 원하시면 이메일(email@example.com)로 연락 바랍니다.
+저와 연락을 원하시면 이메일(Kanghb060628@gmail.com)로 연락 바랍니다.
 
 ---
 
