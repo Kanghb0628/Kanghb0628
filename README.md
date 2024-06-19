@@ -34,5 +34,6 @@
 ## 연락처
 저와 연락을 원하시면 이메일(Kanghb060628@gmail.com)로 연락 바랍니다.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kanghb0628=anuraghazra&layout=compact)
 ---
 
