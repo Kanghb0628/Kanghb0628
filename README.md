@@ -1,4 +1,5 @@
 <!--타이틀 부분-->
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
