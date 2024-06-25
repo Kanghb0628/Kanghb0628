@@ -82,11 +82,5 @@
   </a>
 </div>
 
-##
-<div align="center>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh0829&theme=vision-friendly-dark&show_icons=true)
-</div>
-
-<br>
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh0829&layout=compact&theme=vision-friendly-dark)
+## 방문자 수
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKanghb0628%2Fhit-counter&count_bg=%2300C8FF&title_bg=%238C00FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
