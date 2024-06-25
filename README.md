@@ -72,7 +72,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Prometheus-08253c.svg?style=for-the-badge&logo=Prometheus&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/AWS-F24E1E.svg?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellijidea&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=Intellijidea&logoColor=white"/></a>&nbsp
 </div>
 
 <br>
