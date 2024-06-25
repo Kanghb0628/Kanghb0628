@@ -99,6 +99,7 @@
   <a href="https://www.instagram.com/khb_7599/">
     <img src="https://img.shields.io/badge/@khb_7599-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
+  <img src="https://img.shields.io/badge/blog-03775a?style=for-the-badge&logo=tistroy&logoColor=white"/>&nbsp
 </div>
 
 ## 방문자 수
