@@ -111,8 +111,11 @@
   <a href="https://monsterhunter060628.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
+
+<br>
+  
   <a href="https://discordapp.com/users/640821470997643294">
-    <img src="https://img.shields.io/badge/Discord-FF5722?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Discord-1572B6?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
   </a>
   
 </div>
