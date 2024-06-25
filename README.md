@@ -36,7 +36,12 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/C++-150458.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-4d77cf.svg?style=for-the-badge&logo=JAVA&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AWS EC2-11557c.svg?style=for-the-badge&logo=EC2&logoColor=white" />&nbsp
+  [<img src="https://img.shields.io/badge/AWS EC2-11557c.svg?style=for-the-badge&logo=EC2&logoColor=white" />&nbsp](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
+
+<div align="center">
+  https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+  https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 </div>
 
 <br>
