@@ -105,4 +105,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanghb0628&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ## WakaTime
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kanghb0628\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/Kanghb0628?username=ffflabs\&layout=compact)
