@@ -13,8 +13,8 @@
 </h5>
 
 ## 학교 및 주거지
-<h2 align="center">학교:<br>인천전자마이스터고등학교</h2>
-<h2 align="center">주거: <br>인천광역시 계양구</h2>
+- <h2 align="center">학교:<br>인천전자마이스터고등학교</h2>
+- <h2 align="center">주거: <br>인천광역시 계양구</h2>
 
 ## My skils
 
