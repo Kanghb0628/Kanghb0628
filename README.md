@@ -93,7 +93,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="[Kanghb060628@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/Kanghb060628@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.instagram.com/khb_7599/">
