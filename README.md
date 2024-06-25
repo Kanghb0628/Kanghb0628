@@ -104,5 +104,5 @@
 ## Most Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanghb0628&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-## WakaTime
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/Kanghb0628?username=ffflabs\&layout=compact)
+## GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/Kanghb0628=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
