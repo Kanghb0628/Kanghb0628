@@ -81,3 +81,6 @@
     <img src="https://img.shields.io/badge/Kanghb060628@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh0829&theme=vision-friendly-dark&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh0829&layout=compact&theme=vision-friendly-dark)
