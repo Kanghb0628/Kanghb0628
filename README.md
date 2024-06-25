@@ -6,7 +6,7 @@
 - [My skils](#My-skils)
 - [연락처](#연락처)
 - [Most Language](#Most-Language)
-- [WakaTime](#WakaTime)
+- [GitHub stats](#GitHub-stats)
 
 ## 소개
 <h5 align="center">
