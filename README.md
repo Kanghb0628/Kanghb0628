@@ -100,4 +100,5 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKanghb0628%2Fhit-counter&count_bg=%2300C8FF&title_bg=%238C00FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ## Most Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
