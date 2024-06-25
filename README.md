@@ -99,7 +99,10 @@
   <a href="https://www.instagram.com/khb_7599/">
     <img src="https://img.shields.io/badge/@khb_7599-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
-  <img src="https://img.shields.io/badge/blog-03775a?style=for-the-badge&logo=tistroy&logoColor=white"/>&nbsp
+  <a href="https://monsterhunter060628.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-tistory&logo=blogger&logoColor=white" />&nbsp
+  </a>
+  
 </div>
 
 ## 방문자 수
