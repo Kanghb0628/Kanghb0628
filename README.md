@@ -75,8 +75,6 @@
 
 <br>
 
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp
-
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
